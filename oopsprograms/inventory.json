@@ -1,0 +1,18 @@
+{
+    "rice" : {
+        "name":"basmati",
+        "weight":2,
+        "price":70
+    },
+    "pulses":{
+        "name":"beans",
+        "weight":15,
+        "price":60
+    },
+    "wheats":{
+        "name":"spelt",
+        "weight":22,
+        "price":80
+    }
+
+}
